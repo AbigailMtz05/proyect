@@ -2,6 +2,7 @@
     max-width: 32vh;
     display: block;
     margin: 0 auto;
+    --ionicon-stroke-width: 16px;
 }
 
 ion-input, ion-item{
@@ -13,4 +14,7 @@ ion-content{
 
 .text-danger{
     color: #cf3c4f;
+}
+.google{
+    --background: #DB4437;
 }
